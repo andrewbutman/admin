@@ -1,6 +1,6 @@
 # This settings can be used to create org level settings
 
-#repository: 
+repository: 
   # This is the settings that need to be applied to all repositories in the org 
   # See https://developer.github.com/v3/repos/#edit for all available settings for a repository  
   # A short description of the repository that will show up on GitHub
@@ -15,9 +15,9 @@
   #auto_init: true
     
   # A list of topics to set on the repository
-  #topics: 
+  topics: 
   #- github
-  #- safe-settings
+  - safe-settings
   #- new-topic
   #- another-topic
   #- topic-12
@@ -42,7 +42,7 @@
   #has_wiki: true
   
   # The default branch for this repository.
-  default_branch: main-test
+  #default_branch: main-test
   
   # Desired language or platform [.gitignore template](https://github.com/github/gitignore) 
   # to apply. Use the name of the template without the extension. 
