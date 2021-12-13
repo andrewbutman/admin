@@ -16,7 +16,7 @@ repository:
     
   # A list of topics to set on the repository
   topics: 
-  #- github
+  - github
   - safe-settings
   #- new-topic
   #- another-topic
