@@ -5,9 +5,6 @@ suborgrepos:
   - test*
 # You can use Glob patterns
 
-suborgteams:
-  - core
-
 repository: 
   # This is the settings that need to be applied to all repositories in the org 
   # See https://developer.github.com/v3/repos/#edit for all available settings for a repository  
